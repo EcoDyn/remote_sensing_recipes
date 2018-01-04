@@ -10,7 +10,7 @@ Examples of how to read image data into your working environment in Python and R
 
 ### [Image Visualization](raster_vis.md)
 
-### Stacking, Resampling and Subsetting
+### [Stacking, Resampling and Subsetting](raster_preprocess.md)
 
 ### Mathematical Operations
 
