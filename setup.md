@@ -1,4 +1,4 @@
-COnda install notes:
+Conda install notes:
 
 RSGISlib
 RIOS
