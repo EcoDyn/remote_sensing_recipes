@@ -24,4 +24,6 @@ This repository will document, including actual scripts, remote sensing recipes 
 
 ## Example Files
 
+We include in this repository a couple of remote sensing image files to be used for the recipes. They are tracked using Git Large File Storage.
+
 ## Installing required applications
