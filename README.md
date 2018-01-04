@@ -8,7 +8,7 @@ This repository will document, including actual scripts, remote sensing recipes 
 
 Examples of how to read image data into your working environment in Python and R.
 
-### Image Visualization
+### [Image Visualization](raster_vis.md)
 
 ### Stacking, Resampling and Subsetting
 
