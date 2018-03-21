@@ -16,3 +16,8 @@ gdalUtils
 
 rastervis
 
+mapview
+
+satellite
+
+landsat
