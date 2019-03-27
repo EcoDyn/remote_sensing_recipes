@@ -2,11 +2,13 @@
 
 This repository will document, including actual scripts, remote sensing recipes developed by the Ecosystem Dynamics Observatory to accomplish remote sensing and image processing taks, using R, Python and/or associated libraries.
 
-### Image Input/Output
+### Data Input/Output
 
-#### [Reading images into Python and R](raster_io.md)
+#### [Reading raster images into Python and R](raster_io.md)
 
 Examples of how to read image data into your working environment in Python and R.
+
+#### [Reading vector data into Ptrhon and R](vector_io.md)
 
 ### [Image Visualization](raster_vis.md)
 
